@@ -1,6 +1,6 @@
 # Locations Services Microservice Exercise
 
-Fork repository & design a microservice that needs to handle geojson data for the purposes for storing and querying locations
+Fork repository & design a microservice that handles geojson data for the purposes for storing and querying locations
 
 An example of possible data that would be ingested
 ```
